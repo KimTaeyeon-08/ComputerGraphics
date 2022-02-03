@@ -120,6 +120,8 @@ glMatrixMode(mode);
 Mode->GL_MODELVIEW,GL_PROJECTION, GL_TEXTURE
 
 DAY2 실습 출력화면
+
+
 ![image](https://user-images.githubusercontent.com/81097873/152378168-0809b43b-bd03-4afc-b74d-2833ac6c84f7.png)
 
 
