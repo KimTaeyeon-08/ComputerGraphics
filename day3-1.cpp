@@ -11,7 +11,7 @@ void display() {
 	glViewport(0, 100, 100, 100);//왼쪽 중간으로 로 보여짐 
 	glutWireSphere(0.3, 15, 15);
 
-	glViewport(199, 100, 100, 100);//중간으로 로 보여짐 
+	glViewport(100, 100, 100, 100);//중간으로 로 보여짐 
 	glutWireSphere(0.3, 15, 15);
 
 	glFlush();
