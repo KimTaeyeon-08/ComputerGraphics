@@ -124,7 +124,12 @@ DAY2 실습 출력화면
 
 ![image](https://user-images.githubusercontent.com/81097873/152378168-0809b43b-bd03-4afc-b74d-2833ac6c84f7.png)
 
-
+마우스 콜백 
+-마우스 버튼이 눌러지거나 , 마우스가 움직일 때 불러지는 함수 
+ex) glutMouseFunc(void(*func)(int button, int state, int x, int y));
+glut MotionFunc
+glutPassiveMotionFunc
+glutEntryFunc 
 
 
 
